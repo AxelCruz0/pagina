@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jesús Alberto Machuca Hernandez</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<body>
+    <main>
+
+<img src="https://m.media-amazon.com/images/I/61mtnrRGWzL.jpg" width="250" height="250" alt="">        
+        <h1>
+            Axel Cruz
+            <sup>18</sup>
+        </h1>
+        <h2>
+            Estudiante de TIC's en el ITSOEH
+        </h2>
+        <Span>Tinaco</Span>
+        <p>
+           Estudiante y Futbolista<br>
+        </p>
+        <ul>
+            <li>Pseint</li>
+            <li>Java</li>
+
+        </ul>
+        
+        <ul>
+            <li>
+                <a href="https://www.instagram.com/axelcruz/"><i class="bi bi-instagram"></i></a>
+            </li>
+
+            <li>
+                <a href=""><i class="bi bi-github"></i></a>
+            </li>
+        </ul>
+    
+    </main>
+</body>
+</html>
